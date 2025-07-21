@@ -2,7 +2,6 @@
 // Arduino Nano with TB6612FNG Motor Driver and QTR Sensor Array
 // Competition Version with All Required Tasks
 // Memory optimized for Arduino Nano
-// Fixed ignore mechanism - 6th trigger is ignored, no complex flags needed
 
 // Motor pins for TB6612FNG
 const int AIN1 = 7;
